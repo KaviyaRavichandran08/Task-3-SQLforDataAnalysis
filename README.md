@@ -14,9 +14,8 @@ This repository contains the solutions for internship task 3 where i practiced b
 ##Tools used: 
 
 SQLite (sqlonline.com)
-MS Word (for saving queries)
 
-##Output Samples:
+##Query & Output Samples:
 
-All query outputs are under the "Screenshots" folder.
+All queries and outputs are in "Task_3_SQL_queries.pdf" and "Task_3_SQL_Outputs.pdf".
 
